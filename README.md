@@ -1,5 +1,5 @@
 # Interaction Homme-Machine
-Le but du mini-projet est de créer une application permettant de dessiner et d'éditer des fichiers textes ou HTML.
+Le but du mini-projet est de créer une application permettant d'éditer des fichiers textes ou HTML.
 
 ## Travail effectué
 Création d'une fenêtre contenant une barre de menu avec un menu déroulant “Fichier” contenant trois items pour activer les commandes “Open…”, “Save…” et “Quit…”. Création d'une zone de texte au centre de la fenêtre contenant le fichier en question.
