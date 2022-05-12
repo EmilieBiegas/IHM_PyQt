@@ -9,4 +9,4 @@ Création d'une barre de status.
 
 Création d'un bouton "Quit" qui ouvrira une boîte de dialogue permettant de demander confirmation avant de sortir de l’application (la même demande sera effectuée si l'utilisateur clique sur le bouton présent sur la barre de la fenêtre (généralement une croix, ou un bouton rouge)).
 
-Intégration de quelques éléments graphiques : boutton Hello World, texte et image.
+Intégration de quelques éléments graphiques : titre, message textuel, bouton Hello World et image.
