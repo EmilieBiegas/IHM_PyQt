@@ -14,8 +14,11 @@ Création d'un bouton "Quit" qui ouvrira une boîte de dialogue permettant de de
 Intégration de quelques éléments graphiques : titre, message textuel, bouton Hello World et image.
 
 ### Partie 2
+<<<<<<< HEAD
 Le code source de cette partie est dans le dossier Partie2.
 
+=======
+>>>>>>> 914b740c77d73cd1cb3c9dba6f4d2e950754716b
 On reprend les éléments de la partie 1 (mise à part l'intégration des éléments graphiques).
 
 Création d'une zone de dessin dans la zone centrale avec à la fois la zone de texte et le canvas.
