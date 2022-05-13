@@ -11,6 +11,8 @@ Création d'une barre d’outils permettant d’activer les mêmes commandes ain
 
 Création d'un bouton "Quit" qui ouvrira une boîte de dialogue permettant de demander confirmation avant de sortir de l’application (la même demande sera effectuée si l'utilisateur clique sur le bouton présent sur la barre de la fenêtre (généralement une croix, ou un bouton rouge)).
 
+![](Demo_Partie1.gif)
+
 Intégration de quelques éléments graphiques : titre, message textuel, bouton Hello World et image.
 
 ### Partie 2
