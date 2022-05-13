@@ -26,7 +26,11 @@ On peut choisir la forme de l'objet, son épaisseur (version 1: dès que l'on ap
 
 On peut tracer plusieurs formes (rectangles, ellipses ou traits droits) interactivement. On peut également faire du free drawing !
 
+![](Demo_Partie2_1.gif)
+
 On peut revenir en arrière ce qui a pour effet de supprimer la dernière figure dessinée (puis l'avant dernière, etc.).
+
+![](Demo_Partie2_2.gif)
 
 On a introduit trois modes: dessiner (draw),  déplacer (move) et sélectionner (select) qui sont tous trois compatibles. On a introduit un quatrième mode : sélection au lasso (lasso). Il selectionne de façon rectangulaire comme lors de la création d'une forme. 
 La méthode fonctionne avec plusieurs objets.
@@ -34,8 +38,10 @@ On peut alors changer la couleur (brosse ou pinceau), l'épaisseur ou la forme d
 
 Lors de la sélection, la forme sélectionnée aura un contour rouge et une épaisseur de trait maximale, c'est-à-dire 15 (cet affichage change dès la première modification de cet objet) afin de signifier la sélection de l'objet.
 
-On peut également effacer un (ou plusieurs) objet(s) après les avoir selectionnés (ou avec le lassot) et avoir cliqué sur la poubelle.
+On peut également effacer un (ou plusieurs) objet(s) après les avoir selectionnés (avec le select ou avec le lassot) et avoir cliqué sur la poubelle.
 On peut également effacer tous les dessins que l'on a fait (avec message de confirmation) grâce au bouton clear.
+
+![](Demo_Partie2_3.gif)
 
 Les différents événements sont affichés dans la zone de texte (que l'on peut sauvegarder en cliquant sur l'icone Save Text, on peut aussi ouvrir un fichier texte). 
 On peut sauvegarder le canvas en cliquant sur l'icon Save Canvas. On peut aussi en charger un.
@@ -45,4 +51,5 @@ On peut très bien créer ainsi plusieurs canvas dans des fichiers différents (
 
 On peut également faire une animation en enregistrant plusieurs log dans un dossier et en appuyant sur le bouton associé (choisir le dossier animation pour tester).
 
+![](Demo_Partie2_4.gif)
  
