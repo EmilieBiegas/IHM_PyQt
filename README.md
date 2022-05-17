@@ -32,13 +32,13 @@ On peut revenir en arrière ce qui a pour effet de supprimer la dernière figure
 
 ![](Gifs_Demonstrations/Demo_Partie2_2.gif)
 
-On a introduit trois modes: dessiner (draw),  déplacer (move) et sélectionner (select) qui sont tous trois compatibles. On a introduit un quatrième mode : sélection au lasso (lasso). Il selectionne de façon rectangulaire comme lors de la création d'une forme. 
+On a introduit trois modes: dessiner (draw),  déplacer (move) et sélectionner (select) qui sont tous trois compatibles. On a introduit un quatrième mode : sélection au lasso (lasso). Il sélectionne de façon rectangulaire comme lors de la création d'une forme. 
 La méthode fonctionne avec plusieurs objets.
 On peut alors changer la couleur (brosse ou pinceau), l'épaisseur ou la forme des objets sélectionnés.
 
 Lors de la sélection, la forme sélectionnée aura un contour rouge et une épaisseur de trait maximale, c'est-à-dire 15 (cet affichage change dès la première modification de cet objet) afin de signifier la sélection de l'objet.
 
-On peut également effacer un (ou plusieurs) objet(s) après les avoir selectionnés (avec le select ou avec le lassot) et avoir cliqué sur la poubelle.
+On peut également effacer un (ou plusieurs) objet(s) après les avoir sélectionnés (avec le select ou avec le lasso) et avoir cliqué sur la poubelle.
 On peut également effacer tous les dessins que l'on a fait (avec message de confirmation) grâce au bouton clear.
 
 ![](Gifs_Demonstrations/Demo_Partie2_3.gif)
